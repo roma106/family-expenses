@@ -1,4 +1,4 @@
-# Family Expenses
+#Pet project Family Expenses
 
 Сервис для учёта семейных расходов: Telegram-бот с LLM и веб-панель администратора.
 
@@ -8,7 +8,7 @@
 - **Веб-панель:** просмотр и CRUD расходов всех пользователей, фильтрация по Telegram ID, категории и периоду.
 - **REST API:** управление расходами через HTTP.
 
-## Технологии
+## Стек
 
 Go (Echo, sqlx), PostgreSQL, Telegram Bot API, OpenRouter, HTML/CSS/JavaScript, Docker Compose.
 
