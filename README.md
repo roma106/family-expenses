@@ -1,4 +1,4 @@
-#Pet project Family Expenses
+# Pet project Family Expenses
 
 Сервис для учёта семейных расходов: Telegram-бот с LLM и веб-панель администратора.
 
